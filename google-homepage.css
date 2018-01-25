@@ -1,1 +1,154 @@
-test
+
+body{
+  background-color: white;
+}
+body a hover{
+  text-decoration: black;
+}
+form input{
+  width: 500px;
+  height: 38px;
+  display: block;
+  margin : 0 auto;
+  background-color: #fff;
+  height: 44px;
+  border-radius: 2px;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+  transition: box-shadow 200ms cubic-bezier(0.4, 0.0, 0.2, 1);
+  overflow: visible;
+  white-space: nowrap;
+  position: relative;
+  bottom: -50px;
+}
+
+
+
+form input:hover{
+  border-color: #a0a0a0 #b9b9b9 #b9b9b9 #b9b9b9 !important;
+}
+a#googlelogo{
+margin-left: auto;
+margin-right: auto;
+}
+
+
+a#googlelogo{
+  bottom: -87px;
+  left: -196px;
+  position: relative;
+}
+ 
+ div.buttons{
+  text-align: center;
+  margin-top: 15px;
+  height: 36px;
+  line-height: 27px;
+  position: relative;
+  bottom: -50px;
+}
+div.buttons input{
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  border-radius: 2px;
+  color: #757575;
+  cursor: default;
+  font-family: arial,sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  margin: 11px 4px;
+  min-width: 54px;
+  padding: 0 16px;
+  text-align: center;
+  height: 36px;
+  line-height: 27px;
+}
+div.buttons input:hover{
+ border: 1px solid #c6c6c6;
+ box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+ color: #222;
+}
+ ul#toolbar{
+display: inline;
+list-style: none;
+
+ }
+ a.links{
+   position: relative;
+   left:830px;
+ }
+ a#abstore{
+  display: inline-block;
+  padding-left: 15px;
+  color: #000;
+  opacity: 0.75;
+ }
+ a#abstore :visited{
+  color: rgb(58, 3, 80);
+ }
+ a#abstore :hover{
+text-decoration:underline;
+ }
+ li{
+   float: left;
+   margin: 8px;
+padding: 8px;
+ }
+
+div.footer{
+    bottom: 0;
+    font-size: 10pt;
+    height: 35px;
+    position: absolute;
+    width: 100%;
+    background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    line-height: 40px;
+    min-width: 980px;
+    font-size: small;
+    margin-left: -6px;
+    display: block;
+ }
+
+ body, td, a, p, .h {
+  font-family: arial,sans-serif;
+}
+a.right{
+  position: relative;
+  left:950px;
+  padding: 8px;
+  
+}
+a.left{
+  padding: 8px;
+left:-10px;
+}
+a:hover{
+ text-decoration: underline;
+
+}
+span a{
+  
+  line-height: 40px;
+  min-width: 980px;
+  color:black;
+  text-decoration: none;
+
+}
+a.navright{position: relative;
+  left:880px;
+  padding: 8px;
+}
+  a.navleft{ padding: 8px;
+    left:-53px;
+    position: relative;
+
+  }
+  .logo{
+    display: block;
+  margin-left: auto;
+margin-right: auto;
+position: relative;
+bottom: -15px;
+
+}
+  }
